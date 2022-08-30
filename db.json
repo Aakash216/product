@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "name": "ramu",
+      "email": "ram@gmail.com",
+      "phone": "3456789876",
+      "password": "admin",
+      "id": 14,
+      "date": "2022-07-03"
+    },
+    {
+      "name": "Aakshsd",
+      "email": "singhaakash090@gmail.com",
+      "phone": "8989898989",
+      "password": "89898989",
+      "id": 15,
+      "date": "2022-07-02"
+    },
+    {
+      "name": "rakul",
+      "email": "raku@gmail.com",
+      "phone": "8877665544",
+      "password": "admin",
+      "Date": "",
+      "date": "2022-07-02",
+      "id": 16
+    },
+    {
+      "name": "aman",
+      "email": "aman@gmail.com",
+      "phone": "7878787878",
+      "password": "admin",
+      "Date": "",
+      "date": "2022-07-10",
+      "id": 17
+    },
+    {
+      "name": "rakesh",
+      "email": "rakesh@gmail.com",
+      "phone": "9876543223",
+      "password": "admin",
+      "Date": "",
+      "date": "2022-08-04",
+      "id": 18
+    },
+    {
+      "name": "rakesh",
+      "email": "raku@gmail.com",
+      "phone": "9899898878",
+      "password": "12345678",
+      "Date": "",
+      "date": "2022-08-06",
+      "id": 19
+    },
+    {
+      "name": "aakash",
+      "userName": "AakashSingh",
+      "password": "12345678",
+      "id": 20
+    },
+    {
+      "name": "aakash",
+      "userName": "AakashSingh",
+      "password": "12345678",
+      "id": 21
+    },
+    {
+      "name": "aakash",
+      "userName": "AakashSingh",
+      "password": "12345678",
+      "id": 22
+    },
+    {
+      "name": "",
+      "userName": "raku@gmail.com",
+      "password": "12345678",
+      "id": 23
+    },
+    {
+      "name": "aakash",
+      "userName": "Aakash Singh",
+      "password": "12345678",
+      "id": 24
+    },
+    {
+      "name": "aakash",
+      "userName": "ramesh",
+      "password": "12345678",
+      "id": 25
+    }
+  ]
+}
